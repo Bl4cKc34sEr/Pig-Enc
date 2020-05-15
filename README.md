@@ -1,7 +1,7 @@
 # Pig-Enc
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/]
-[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)]
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![GitHub followers](https://img.shields.io/github/followers/Bl4cKc34sEr.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Bl4cKc34sEr?tab=followers)
 
 Pig-Enc is Pigpen Cipher Encoding Script writen in Python Programming Language.
