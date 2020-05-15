@@ -1,7 +1,7 @@
 # Pig-Enc
 
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
-[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/Blackc34sEr/Pig-Enc)
+[![Build Status](https://travis-ci.com/Blackc34sEr/Pig-Enc.svg?branch=master)](https://travis-ci.com/Blackc34sEr/Pig-Enc)
 
 Pig-Enc is Pigpen Cipher Encoding Script writen in Python Programming Language.
 The library used is TURTLE library.
