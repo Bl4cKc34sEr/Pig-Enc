@@ -1,7 +1,6 @@
 # Pig-Enc
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![Only 3.5 Kb](https://badge-size.herokuapp.com/Bl4cKc34sEr/StrapDown.js/master/strapdown.min.js)]
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
 (https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
 [![GitHub followers](https://img.shields.io/github/followers/Bl4cKc34sEr.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Bl4cKc34sEr?tab=followers)
