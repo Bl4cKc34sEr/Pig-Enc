@@ -2,12 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
-
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
+#Author - Bl4cKc34sEr 
 
 
 from turtle import Turtle
@@ -152,15 +147,4 @@ for i in PlainText:
         y -= 45*fontSize
 
 
-# In[ ]:
-
-
-
-
-
-
-# In[ ]:
-
-
-
-
+# In[]:
