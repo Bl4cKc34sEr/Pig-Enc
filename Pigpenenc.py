@@ -2,8 +2,6 @@
 # coding: utf-8
 
 # In[1]:
-#Author - Bl4cKc34sEr 
-
 
 from turtle import Turtle
 import turtle
